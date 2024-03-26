@@ -1,5 +1,5 @@
 {
-    "name": "ContajaContabilidade/laravel-keycloak-admin",
+    "name": "contajacontabilidade/laravel-keycloak-admin",
     "description": "Keycloak Admin Rest API for Laravel/Lumen",
     "require": {
         "guzzlehttp/guzzle": "*"
