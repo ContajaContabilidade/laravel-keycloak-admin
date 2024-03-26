@@ -16,6 +16,7 @@ https://gitlab.com/scito-performance/keycloak-admin
 ### Installation
 
 ```
+composer config repositories.contajacontabilidade-laravel-keycloak-admin git https://github.com/contajacontabilidade/laravel-keycloak-admin.git
 composer require contajacontabilidade/laravel-keycloak-admin
 ```
 
