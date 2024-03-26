@@ -1,8 +1,8 @@
 {
-    "name": "haizad/laravel-keycloak-admin",
+    "name": "ContajaContabilidade/laravel-keycloak-admin",
     "description": "Keycloak Admin Rest API for Laravel/Lumen",
     "require": {
-        "guzzlehttp/guzzle": "^7.0"
+        "guzzlehttp/guzzle": "*"
     },
     "license": "MIT",
     "authors": [
@@ -17,7 +17,11 @@
             "email": "haizadannuar@gmail.com",
             "homepage": "https://github.com/haizad",
             "role": "contributing developer"
-        }
+        },
+        {
+            "homepage": "https://github.com/ContajaContabilidade",
+            "role": "contributing developer"
+        }        
     ],
     "minimum-stability": "dev",
     "autoload": {
