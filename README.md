@@ -16,7 +16,7 @@ https://gitlab.com/scito-performance/keycloak-admin
 ### Installation
 
 ```
-composer require haizad/laravel-keycloak-admin
+composer require ContajaContabilidade/laravel-keycloak-admin
 ```
 
 ### Copy the package config to your local config with the publish command:
